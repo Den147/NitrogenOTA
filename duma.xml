@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+    <RomName>Nitrogen-OS</RomName>
+    <VersionName></VersionName>
+    <VersionNumber type="integer"></VersionNumber> 
+    <DirectUrl></DirectUrl> 
+    <HttpUrl>https://forum.xda-developers.com/member.php?u=7912782</HttpUrl> 
+    <Android>8.1.0</Android>
+    <CheckMD5></CheckMD5>
+    <FileSize type="integer"></FileSize>
+    <Developer>Den147</Developer>
+    <WebsiteURL>https://forum.xda-developers.com/android/software/rom-nitrogenos-oreo-me302kl-t3707320</WebsiteURL>
+    <DonateURL></DonateURL>
+    <Changelog>
+        - Initial OTA support.
+    </Changelog>
+    <AddonCount>2</AddonCount>
+    <AddonsURL></AddonsURL>
+</ROM>
