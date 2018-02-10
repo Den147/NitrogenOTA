@@ -19,11 +19,11 @@
         * Added OTA support (based on NitrogenOTA) - now you can check the lastest version from settings (System > About tablet > NitrogenOS updates)
         * Fixed artefacts in some media players 
         * WiFi optimizations 
-        * Partly fixed issue when setting get crashed after turning on/off WiFi toggle
+        * Partly fixed issue when settings get crashed after turning on/off WiFi toggle
         * Restored touchscreen and keylayout stuff from the lastest Asus ROM
         * Some RIL changes
         * Fixed bug when CPU works only on 3 freq (max, 1026 and deep sleep). Now it works well
-        * Improved battery life while using the tablet 
+        * Improved power consumption
         * Added exFAT support
         * Ext4 optimizations
         * Used 64-bit Binder
