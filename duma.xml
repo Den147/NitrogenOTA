@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ROM>
-    <RomName>Nitrogen-OS</RomName>
-    <VersionName>Nitrogen-OS-O-duma-20180210</VersionName>
-    <VersionNumber type="integer">20180210</VersionNumber> 
-    <DirectUrl>https://goo.gl/Cfhn6N</DirectUrl> 
-    <HttpUrl>https://forum.xda-developers.com/member.php?u=7912782</HttpUrl> 
-    <Android>8.1.0</Android>
-    <CheckMD5>4efa681ed9025c1dffc7a02688c49163</CheckMD5>
-    <FileSize type="integer">288354366</FileSize>
-    <Developer>Den147</Developer>
-    <WebsiteURL>https://forum.xda-developers.com/android/software/rom-nitrogenos-oreo-me302kl-t3707320</WebsiteURL>
-    <DonateURL nil="true" />
-    <Changelog>
-        ### Changelog
-        * Updated Android to 8.1.0 r_14
-        * Sync with the NOS source code
-        * Updated security patch to February
-        * Added OTA support (based on NitrogenOTA) - now you can check the lastest version from settings (System > About tablet > NitrogenOS updates)
-        * Fixed artefacts in some media players 
-        * WiFi optimizations 
-        * Partly fixed issue when settings get crashed after turning on/off WiFi toggle
-        * Restored touchscreen and keylayout stuff from the lastest Asus ROM
-        * Some RIL changes
-        * Fixed bug when CPU works only on 3 freq (max, 1026 and deep sleep). Now it works well
-        * Improved power consumption
-        * Added exFAT support
-        * Ext4 optimizations
-        * Used 64-bit Binder
-        * Added Pixel Launcher
-        * Fixed issue when camera app don't shown for some people (as me)
-        * Improved system stability and smoothness
-    </Changelog>
-    <AddonCount>0</AddonCount>
-    <AddonsURL></AddonsURL>
-</ROM>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <duma>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description=""></RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+        </duma>
+    </Stable>
+</SlimOTA>
