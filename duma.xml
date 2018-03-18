@@ -1,35 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>Nitrogen-OS</RomName>
-    <VersionName>Nitrogen-OS-O-duma-20180210</VersionName>
-    <VersionNumber type="integer">20180210</VersionNumber> 
-    <DirectUrl>https://goo.gl/Cfhn6N</DirectUrl> 
+    <VersionName>Nitrogen-OS-O-duma-20180317</VersionName>
+    <VersionNumber type="integer">20180317</VersionNumber> 
+    <DirectUrl>https://goo.gl/zNpcRN</DirectUrl> 
     <HttpUrl>https://forum.xda-developers.com/member.php?u=7912782</HttpUrl> 
     <Android>8.1.0</Android>
     <CheckMD5>4efa681ed9025c1dffc7a02688c49163</CheckMD5>
-    <FileSize type="integer">288354366</FileSize>
+    <FileSize type="integer">286369484</FileSize>
     <Developer>Den147</Developer>
     <WebsiteURL>https://forum.xda-developers.com/android/software/rom-nitrogenos-oreo-me302kl-t3707320</WebsiteURL>
     <DonateURL nil="true" />
     <Changelog>
-        ### Changelog
-        * Updated Android to 8.1.0 r_14
+        ### Changelog EN
+        * Updated Android to 8.1.0 r_18
         * Sync with the NOS source code
-        * Updated security patch to February
-        * Added OTA support (based on NitrogenOTA) - now you can check the lastest version from settings (System > About tablet > NitrogenOS updates)
-        * Fixed artefacts in some media players 
-        * WiFi optimizations 
-        * Partly fixed issue when settings get crashed after turning on/off WiFi toggle
-        * Restored touchscreen and keylayout stuff from the lastest Asus ROM
-        * Some RIL changes
-        * Fixed bug when CPU works only on 3 freq (max, 1026 and deep sleep). Now it works well
-        * Improved power consumption
-        * Added exFAT support
-        * Ext4 optimizations
-        * Used 64-bit Binder
-        * Added Pixel Launcher
-        * Fixed issue when camera app don't shown for some people (as me)
-        * Improved system stability and smoothness
+        * Used NitrogenOTA based on SlimOTA
+        * Reworked PowerHAL (thanks yatto and Unlegacy-Android) - need testing
+        * Updated alinging CPU/GPU frequencies corners with APQ8064-AB revision (thanks Alex Saiko <solcmdr@gmail.com>)
+        * Fixed problems with WiFi speed (thanks Alex Saiko <solcmdr@gmail.com>)
+        * And other misc changes and improvements
+        ### Changelog RU
+        * Обновление Android 8.1.0 до r_18 => Патч безопасности - 5 марта
+        * Обновление исходников NOS по 15 число
+        * Использовал приложение NitrogenOTA, основанное на SlimOTA
+        * Переработан PowerHAL (спасибо yatto и команде Unlegacy-Andoid)
+        * Доработано обновление частот CPU/GPU нашего APQ8064 в соответствие с таковыми у APQ8064-AB (огромное спасибо Alex Saiko <solcmdr@gmail.com>)
+        * Исправлены проблемы со скоростью WiFi (за подсказку спасибо также Alex Saiko <solcmdr@gmail.com> )
     </Changelog>
     <AddonCount>0</AddonCount>
     <AddonsURL></AddonsURL>
