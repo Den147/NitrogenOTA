@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <duma>
-            <Filename>Nitrogen-OS-O-duma-20180317-Den147-unified</Filename>
+            <Filename>Nitrogen-OS-O-duma-20180317/Filename>
             <RomUrl
                 id="rom"
                 title=""
-                description="Download the latest build">https://forum.xda-developers.com/devdb/project/dl/?id=28892&task=get</RomUrl>
+                description="">hhttps://goo.gl/zNpcRN</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title=""
