@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <duma>
-            <Filename>Nitrogen-OS-O-duma-20180317</Filename>
+            <Filename>Nitrogen-OS-O-duma-20180414</Filename>
             <RomUrl
                 id="rom"
                 title=""
-                description="">https://goo.gl/zNpcRN</RomUrl>
+                description="">https://goo.gl/RwCq9g</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title=""
